@@ -1,6 +1,4 @@
 prime = []
-
-
 def seive(n):
     global prime
     cache = [True for i in range(n+1)]
@@ -15,6 +13,4 @@ def seive(n):
         if cache[i]:
             prime.append(i)
     return prime
-
-
-print(seive(20))
+ 

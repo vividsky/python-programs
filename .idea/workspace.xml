@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881a4c99-efb7-4a34-bd89-9f88e6ed72e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci_generator.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci_memiozation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/merge_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mul_power.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/powerset_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime_cofactors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sieve_of_eratotheneses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrograms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrograms/src/com/company/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms/src/com/company/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/src/com/company/BFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +34,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeChef" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Dijkstra" />
+      <module name="topics_todo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dijkstra" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,10 +69,26 @@
       <option name="presentableId" value="Default" />
       <updated>1619777421553</updated>
       <workItem from="1619777422901" duration="26000" />
+      <workItem from="1619784224811" duration="12000" />
+      <workItem from="1620911099043" duration="2936000" />
+      <workItem from="1620919063817" duration="1964000" />
+      <workItem from="1621082828812" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
